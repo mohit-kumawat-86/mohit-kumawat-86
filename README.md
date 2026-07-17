@@ -125,8 +125,8 @@
 ![](https://visitcount.itsvg.in/api?id=mohit-kumawat-86&icon=5&color=6)
 
 ## 🐍 Contribution Snake
-<p align="center">
-  workflows/snake.yml
-</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohit-kumawat-86/mohit-kumawat-86/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
 <br clear="both">
