@@ -1,5 +1,3 @@
-[![@mohit-kumawat-86's Holopin board](https://holopin.me/mohit-kumawat-86)](https://holopin.io/@mohit-kumawat-86)
-
 <h1 align="center">Hi 👋, I'm Mohit Kumawat</h1>
 <h3 align="center">B.Tech AI & ML student and passionate developer from India</h3>
 
@@ -20,7 +18,7 @@
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://www.linkedin.com/in/mohit-kumawat-94903a33a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhinendrasingh3" height="30" width="40" /></a>
-<a href="https://github.com/mohit-kumawat-86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://instagram.com/mohit_kumawat_101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="GitHub" height="30" width="40" /></a>
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
