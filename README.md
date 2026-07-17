@@ -126,7 +126,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohit-kumawat-86/mohit-kumawat-86/blob/main/workflows/snake.yml" alt="Snake animation" />
+  workflows/snake.yml
 </p>
 
 <br clear="both">
